@@ -1,7 +1,7 @@
 
  # Olá, sou o Jamerson!
 
-### 🌱Atualmente estou estudando HTML5__CSS3__JAVASCRIPT__Python.
+### 🌱Atualmente estou estudando html5__css3__javascript__python.
 
 <div align="center">
  
