@@ -7,9 +7,7 @@
  
   <a href="https://github.com/JAMERSONN">
    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=JAMERSONN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="140px" [src="https://github-readme-stats.vercel.app/api/top-langs/? "src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMERSONN&layout=compact&langs_count=7&theme=tokyonight"/> 
-   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF
- 
+    <img height="140px" [src="https://github-readme-stats.vercel.app/api/top-langs/? "src="https://github-readme-stats.vercel.app/api/top-langs/    username=JAMERSONN&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
  <div style="d-flex justify-content-around""><br>
   <img d-flex justify-content-around"" alt="jamerson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
