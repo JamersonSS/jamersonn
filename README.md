@@ -1,5 +1,5 @@
 
- # Olá! eu sou o Jamerson !
+ # Olá, sou o Jamerson!
 
 ### 🌱Atualmente estou estudando HTML5__CSS3__JAVASCRIPT.
 
